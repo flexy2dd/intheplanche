@@ -15,7 +15,7 @@ Pour installer PHP, selon le système d'exploitation la marche a suivre étant d
 ## installer GIT 
 Pour installer GIT, selon le système d'exploitation la marche a suivre étant différente, veuillez vous reporter a la documentation de GIT ici : https://git-scm.com/downloads
 
-# Recuperation des scripts
+## Recuperation des scripts
 
 Pour recuperer les scripts vous devez dans un terminal effectuer la commande **git clone https://github.com/flexy2dd/intheplanche.git**
 
