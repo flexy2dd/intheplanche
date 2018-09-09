@@ -5,11 +5,19 @@ Dans cette documentation vous trouverez les prérequis a l'utilisation des scrip
 # Prérequis
 
 * PHP 7 installé
+* GIT installé
 * Avoir récupéré les scripts.
 
 ## installer PHP 7 
 
 Pour installer PHP, selon le système d'exploitation la marche a suivre étant différente, veuillez vous reporter a la documentation de php ici : http://php.net/manual/fr/install.php
+
+## installer GIT 
+Pour installer GIT, selon le système d'exploitation la marche a suivre étant différente, veuillez vous reporter a la documentation de GIT ici : https://git-scm.com/downloads
+
+# Recuperation des scripts
+
+Pour recuperer les scripts vous devez dans un terminal effectuer la commande git clone https://github.com/flexy2dd/intheplanche.git
 
 # Utilisation des scripts
 
