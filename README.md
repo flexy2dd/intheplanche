@@ -44,10 +44,10 @@ La commande pour lister le contenu d'un repertpoire est ls.
 
 ## Exécution du script Rendu de monnaie
 
-Une fois dans le dossier `intheplanche/calcul-de-taxes` contenant le script `taxe.php` et le repertoire `Taxe`.
-Exécutez la commande suivante : `php taxe.php --help` et laissez vous guider.
+Une fois dans le dossier `intheplanche/rendu-de-monnaie` contenant les scripts `change.php`.
+Exécutez la commande suivante : `php change.php --help` et laissez vous guider.
 
 ## Exécution du script Calcul de taxes
 
-Une fois dans le dossier `intheplanche/rendu-de-monnaie` contenant les scripts `change.php`.
-Exécutez la commande suivante : `php change.php --help` et laissez vous guider.
+Une fois dans le dossier `intheplanche/calcul-de-taxes` contenant le script `taxe.php` et le repertoire `Taxe`.
+Exécutez la commande suivante : `php taxe.php --help` et laissez vous guider.
