@@ -17,7 +17,7 @@ Pour installer GIT, selon le système d'exploitation la marche a suivre étant d
 
 # Recuperation des scripts
 
-Pour recuperer les scripts vous devez dans un terminal effectuer la commande git clone https://github.com/flexy2dd/intheplanche.git
+Pour recuperer les scripts vous devez dans un terminal effectuer la commande **git clone https://github.com/flexy2dd/intheplanche.git**
 
 # Utilisation des scripts
 
