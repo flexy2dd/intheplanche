@@ -24,9 +24,9 @@ Pour recuperer les scripts vous devez dans un terminal effectuer la commande **g
 Afin de pouvoir utiliser les scripts il faut utiliser l'invite de commande.
 Pour mon exemple nous considérerons que nous somme sous Debian (Jessie ou Stretch).
 
-## ouvrir l'invite de commande
+## Ouvrir le terminal
 
-Pour ouvrir l'invite de commande, il suffit de cliquer sur  démarrer et de taper "cmd".
+Pour ouvrir le terminal, il suffit de cliquer sur l'icone terminal de votre distribution ou se copnnecter en SSH.
 
 La commande pour changer de répertoire est l'abréviation anglaise de Change Directory, soit cd.
 
