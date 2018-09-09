@@ -34,9 +34,8 @@ class Vat
     	  
         $fVat = $this->rate/100;
         $this->amountTtc = $this->amountHt * (1 + $fVat);
+        //$this->amountHt = $this->amountTtc / (1 + $fVat);
         
-//$montarifttc = montarifht * (1 + $tva);
-//$montarifht = montarifttc / (1 + $tva);
         return true;
     }
 }
